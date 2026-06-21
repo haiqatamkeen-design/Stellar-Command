@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/rocket.svg</file>
+        <file>icons/radar.svg</file>
+        <file>icons/wrench.svg</file>
+        <file>icons/flask.svg</file>
+        <file>icons/alert.svg</file>
+        <file>icons/fleet.svg</file>
+        <file>icons/advance.svg</file>
+        <file>icons/trash.svg</file>
+        <file>icons/fuel.svg</file>
+        <file>icons/book.svg</file>
+        <file>icons/pencil.svg</file>
+        <file>icons/logout.svg</file>
+        <file>icons/satellite.svg</file>
+    </qresource>
+</RCC>
